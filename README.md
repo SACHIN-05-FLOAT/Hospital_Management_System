@@ -51,7 +51,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application.git
+git clone [https://github.com/SACHIN-05-FLOAT/Hospital_Management_System/edit/main/README.md]
 cd MERN-Stack-Hospital-Management-System-Web-Application
 Set Up the Backend
 
