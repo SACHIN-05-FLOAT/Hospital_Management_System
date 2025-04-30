@@ -1,21 +1,4 @@
 # Hospital_Management_System
-📌 Project Description
-Code Wizard is a web-based AI-powered code review tool designed to assist developers in writing cleaner and more efficient code. Users can input code in a built-in editor, and the application sends it to an AI backend for analysis. The AI then returns detailed feedback, including suggestions for improvements, potential bugs, and best practices. This project showcases the integration of modern frontend technologies with AI APIs to create an interactive and intelligent coding assistant.
-
-Would you like a shorter version or one tailored specifically for a college audience?
-
-
-
-
-
-
-
-You said:
-for this https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application
-
-
-ChatGPT said:
-Certainly! Based on the information provided and the contents of your GitHub repository Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application, here's a comprehensive README.md file tailored to meet the final project submission guidelines:
 
 🏥 MERN Stack Hospital Management System
 📌 Project Description
@@ -110,6 +93,7 @@ cd dashboard
 npm install
 npm start
 The application will be accessible at http://localhost:3000 for the frontend and http://localhost:3001 for the admin dashboard.
+<img width="1146" alt="Screenshot 2025-04-30 at 10 49 13 PM" src="https://github.com/user-attachments/assets/8555ed01-d909-461b-b08c-1bd30f24422b" />
 
 🧪 Usage
 User Registration & Login
